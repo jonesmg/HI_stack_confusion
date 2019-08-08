@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jonesmg/HI_stack_confusion/tree/master/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jonesmg/HI_stack_confusion/master)
 
 # HI confusion in stacking experiments
 
