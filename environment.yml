@@ -1,7 +1,9 @@
 name: hiconfusion
+channels:
+ - defaults
 dependencies:
- - python 2.7.*
+ - python 2.7
  - jupyter
- - matplotlib
- - scipy
- - numpy
+ - matplotlib 1.5.*
+ - scipy 0.18.*
+ - numpy 1.11.*
