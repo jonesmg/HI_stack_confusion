@@ -1,7 +1,4 @@
 name: hiconfusion
-channels:
- - conda-forge
- - defaults
 dependencies:
  - python 2.7.*
  - jupyter
