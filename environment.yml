@@ -1,0 +1,10 @@
+name: hiconfusion
+channels:
+ - conda-forge
+ - defaults
+dependencies:
+ - python 2.7.*
+ - jupyter
+ - matplotlib 1.5.*
+ - scipy 0.18.*
+ - numpy 1.11.*
